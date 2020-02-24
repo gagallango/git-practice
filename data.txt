@@ -1,0 +1,3 @@
+Name: Gabriela
+Age: 23
+Favorite color: black
